@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**feeter/feeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# José Campos
 
-Here are some ideas to get you started:
+### Software Desarrollo + Bases de Datos +  Aprendiendo Ciberseguridad
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Trabajos realizados
+
+- Sistema de pagos masivos para banco 
+- Sistema C# para gestion de compras institucionales
+- Sistema C# para la recopilacion de las transacciones energeticas del país 
+
+
+## Conocimientos
+
+ - Programación (C#, React)
+ - Transact-SQL (SQL Server)
+ - Linux (Ubuntu, CentOS)
+ 
+## Contacto
+
+Email: josigna.cp@gmail.com
