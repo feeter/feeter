@@ -1,7 +1,7 @@
 
 # José Campos
 
-### Software Desarrollo + Bases de Datos +  Aprendiendo Ciberseguridad
+### Desarrollo Software + Bases de Datos + Aprendiendo Ciberseguridad
 
 
 ## Trabajos realizados
@@ -16,6 +16,7 @@
  - Programación (C#, React)
  - Transact-SQL (SQL Server)
  - Linux (Ubuntu, CentOS)
+ - Docker
  
 ## Contacto
 
